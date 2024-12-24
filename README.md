@@ -1,16 +1,20 @@
-# p1
+# CHATLITE
 
-A new Flutter project.
+This is a simple chat application which is based on Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, ensure you have Flutter installed on your machine. Follow the official Flutter installation guide if needed:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once you have Flutter set up, you can clone or download this repository and run the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the App
+
+1. Clone or download this repository.
+2. Open the project in your preferred IDE (e.g., VS Code, Android Studio).
+3. Run the following command in your terminal:
+
+   ```bash
+   flutter run
