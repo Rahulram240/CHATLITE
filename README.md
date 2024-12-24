@@ -1,6 +1,6 @@
 # CHATLITE
 
-This is a simple chat application which is based on Flutter.
+CHATLITE is a simple chat application built with Flutter. This app allows users to send and receive messages in a basic chat interface.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ To get started with this project, ensure you have Flutter installed on your mach
 
 - [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 
-Once you have Flutter set up, you can clone or download this repository and run the app.
+Once you have Flutter set up, clone or download this repository and run the app.
 
 ## Running the App
 
