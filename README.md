@@ -10,6 +10,8 @@ To get started with this project, ensure you have Flutter installed on your mach
 
 Once you have Flutter set up, clone or download this repository and run the app.
 
+## [CLICK HERE TO SEE THE PREVIEW](https://chatlite-beta.vercel.app/)
+
 ## Running the App
 
 1. Clone or download this repository.
