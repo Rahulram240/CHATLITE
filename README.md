@@ -2,6 +2,8 @@
 
 CHATLITE is a simple chat application built with Flutter. This app allows users to send and receive messages in a basic chat interface.
 
+<b><a href="https://chatlite-beta.vercel.app/" target="_blank">CLICK HERE TO SEE THE PREVIEW</a><b>
+
 ## Getting Started
 
 To get started with this project, ensure you have Flutter installed on your machine. Follow the official Flutter installation guide if needed:
@@ -9,8 +11,6 @@ To get started with this project, ensure you have Flutter installed on your mach
 - [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 
 Once you have Flutter set up, clone or download this repository and run the app.
-
-## [CLICK HERE TO SEE THE PREVIEW](https://chatlite-beta.vercel.app/)
 
 ## Running the App
 
